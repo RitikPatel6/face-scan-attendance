@@ -1,4 +1,4 @@
-/* Global Styles */
+
 body {
     font-family:cursive;
     background: linear-gradient(135deg, #979191, #d1a9a9);
@@ -28,7 +28,6 @@ h1 {
     }
 }
 
-/* Button Styling */
 button {
     background: linear-gradient(90deg, #ff7eb3, #ff758c);
     color: white;
@@ -59,7 +58,6 @@ button:hover {
     }
 }
 
-/* Webcam Container Styling */
 #webcam-container {
     margin-top: 20px;
     border: 3px solid rgba(255, 255, 255, 0.3);
@@ -80,7 +78,6 @@ button:hover {
     }
 }
 
-/* Label Container Styling */
 #label-container {
     margin-top: 20px;
     text-align: center;
@@ -88,7 +85,6 @@ button:hover {
     color: #f0f0f0;
 }
 
-/* Message Container Styling */
 #message-container {
     margin-top: 20px;
     font-size: 1.2rem;
